@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)](https://travis-ci.org/dsondak/cs207testing.svg?branch=master)
+[![Build Status](https://travis-ci.org/mfpenrod/cs107test.svg?branch=main)](https://travis-ci.org/mfpenrod/cs107test.svg?branch=main)
 
-[![Coverage Status](https://codecov.io/gh/dsondak/cs207testing/branch/master/graph/badge.svg)](https://codecov.io/gh/dsondak/cs207testing)
+[![Coverage Status](https://codecov.io/gh/mfpenrod/cs107test/branch/main/graph/badge.svg)](https://codecov.io/gh/mfpenrod/cs107test)
 
