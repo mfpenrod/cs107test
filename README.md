@@ -1,4 +1,4 @@
-[![Build Status](https://travis-ci.org/mfpenrod/cs107test.svg?branch=main)](https://travis-ci.org/mfpenrod/cs107test.svg?branch=main)
+[![Build Status](https://travis-ci.org/mfpenrod/cs107test.svg?branch=master)](https://travis-ci.org/mfpenrod/cs107test.svg?branch=master)
 
-[![Coverage Status](https://codecov.io/gh/mfpenrod/cs107test/branch/main/graph/badge.svg)](https://codecov.io/gh/mfpenrod/cs107test)
+[![Coverage Status](https://codecov.io/gh/mfpenrod/cs107test/branch/master/graph/badge.svg)](https://codecov.io/gh/mfpenrod/cs107test)
 
